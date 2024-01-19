@@ -1,0 +1,6 @@
+primeranota = float(input("ingrese la primera nota: "))
+segundanota = float(input("ingrese la primera nota: "))
+terceranota = float(input("ingrese la primera nota: "))
+cuartanota = float(input("ingrese la primera nota: "))
+promedio = ( (primeranota + segundanota + terceranota + cuartanota) / 4)
+print (f"el promedio es : ", promedio)
